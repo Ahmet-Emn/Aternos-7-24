@@ -4,7 +4,7 @@ Sunucunuza Bir Bot Kullanıcı Atarak Sunucunuzu 7/24 Yapar.
 # Kurulum
 <img style="" src="https://cdn.discordapp.com/attachments/902968664133890079/962056049521725450/unknown.png">
 <strong>Yukarıdaki resimde gördüğünüz yerleri kendinize uygun değiştirin.</strong><br>
-Sonra Modülleri İndirmek İçin <strong>npm i</strong> yazın.<br>
+Sonra Modülleri İndirmek İçin <code>npm i</code> yazın.<br>
 Yazdıktan Sonra Dosya İçinde Ki Başlat.bat Dosyasını Açmanız Yeterli.<br>
 <strong>Her Hangi Bir Sorun Oluşursa Bana Discor'dan Yazabilirsiniz.</strong><br>
 
