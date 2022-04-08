@@ -6,7 +6,7 @@ Sunucunuza Bir Bot Kullanıcı Atarak Sunucunuzu 7/24 Yapar.
 <strong>Yukarıdaki resimde gördüğünüz yerleri kendinize uygun değiştirin.</strong><br>
 Sonra Modülleri İndirmek İçin <code>npm i</code> yazın.<br>
 Yazdıktan Sonra Dosya İçinde Ki Başlat.bat Dosyasını Açmanız Yeterli.<br>
-<strong>Her Hangi Bir Sorun Oluşursa Bana Discor'dan Yazabilirsiniz.</strong><br>
+<strong>Her Hangi Bir Sorun Oluşursa Bana Discord'dan Yazabilirsiniz.</strong><br>
 
 # İletişim
 E-posta: <a href="mailto:me@ahmetemn.xyz">me@ahmetemn.xyz</a><br>
